@@ -1,4 +1,4 @@
-# Currently working on my final year project which involves controlling a non-holonomic robot in different scenarios
+# This is my project which involves controlling a non-holonomic robot in different scenarios
 ## Developed Kinematic and Dynamic model for a Differential Drive Wheeled Mobile Robot (Non-holonomic)
 ### Kinematic model
 This model is executed when there is no forces around the robot. We give left and right wheel angular velocities as input to the model. 
