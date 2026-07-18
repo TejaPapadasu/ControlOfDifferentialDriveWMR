@@ -1,5 +1,5 @@
 # This is my project which involves controlling a non-holonomic robot in different scenarios
-## Developed Kinematic and Dynamic model for a Differential Drive Wheeled Mobile Robot (Non-holonomic)
+## Overview of Kinematic and Dynamic model for a Differential Drive Wheeled Mobile Robot (Non-holonomic)
 ### Kinematic model
 This model is executed when there is no forces around the robot. We give left and right wheel angular velocities as input to the model. 
 We get linear and angular velocities of the robot as output, with the help of Jacobian method.
